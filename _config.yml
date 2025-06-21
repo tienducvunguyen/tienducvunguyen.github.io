@@ -113,8 +113,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : #/assets/images/ducisbi2024.jpg"
+  name             : "Tien Duc Vu Nguyen"
+  avatar           : "/assets/images/ducisbi2024.jpg"
   bio              : "Undergraduate Researcher in Graph Signal Processing on Brain Networks"
   location         : "Pittsburgh, Pennsylvania"
   email            : "tienducvunguyen2004@gmail.com
