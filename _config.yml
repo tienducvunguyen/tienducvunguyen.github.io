@@ -324,3 +324,9 @@ defaults:
       comments: # true
       share: true
       related: true
+      
+  - scope:
+      path: ""
+      type: pages
+    values:
+      custom_css: "/assets/css/custom.css"
