@@ -4,10 +4,10 @@ main:
     url: /
 
   - title: "About Me"
-    url: docs/_pages/about/
+    url: /about/
 
   - title: "Publications"
-    url: docs/_pages/papers/
+    url: /papers/
 
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
