@@ -8,3 +8,29 @@ search: false
 // ✅ Hardcode the skin here
 @import "minimal-mistakes/skins/dark";
 @import "minimal-mistakes"; // ✅ This allows _config.yml to control the skin
+
+@media (min-width: 80em) {
+
+.author__avatar {
+  display: table-cell;
+  vertical-align: top;
+  width: 80px;
+  height: 80px;
+
+  @include breakpoint($large) {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+
+  img {
+    max-width: 175px;
+    border-radius: 50%;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
+  }
+}
+}
