@@ -13,31 +13,19 @@ My work focuses on:
 - Brain networks and physiological signal modeling
 - Real-time biomedical sensing systems
 
----
+### Hobbies
 
-### 📄 Selected Publications
+**Football**  
+Although I only began playing football in college, it has since become one of my main passion. I find myself deeply engaged with the sport—not just in playing it, but also in following professional leagues like the Premier League.
 
-- **VergeIO: Depth-Aware Eye Interaction on Glasses**  
-  *X. Zhang<sup></sup>, D. Vu<sup></sup>, C. Shen, Y. Wang, Y. Shi, J. Chan (2025)*  
-  Presented VergeIO, the first EOG-based smart glasses enabling depth-aware interaction. Built motion artifact detection, ran a user study, and validated applications including varifocal auto-focus and AR alignment.  
-  [arXiv:2507.02187](https://arxiv.org/abs/2507.02187)
+**Drawing**  
+I enjoy drawing, particularly portraits. My early sketches were more stylized—drawing inspiration from animation and medieval themes but recently I’ve been focusing on improving my fundamentals, such as form and anatomy, in order to improve my portrait drawings. Interestingly enough, people have told me I am very intense while drawing.
 
-- **Hypergraph Overlapping Community Detection for Brain Networks**  
-  *D. Vu, S. Aviyente (2025)*  
-  Proposed hypergraph-based overlapping community detection method for brain networks from fMRI data.  
-  [arXiv:2507.08999](https://arxiv.org/abs/2507.08999)
+**Gaming**  
+Video games are my long-time interest, and I’ve enjoyed both multiplayer titles like *Counter-Strike* and *Dark Souls*, as well as more narrative-driven single-player games. Lately, I’ve grown especially interested in atmospheric games like *Bloodborne*, *Frostpunk*, *Resident Evil 7*, and *Clair Obscur: Expedition 33*. I find myself constantly listening to these games soundtracks on repeat. 
 
-- **Learning Graph Filters for Structure–Function Coupling Based Hub Node Identification**  
-  *M. Ortiz-Bouza<sup></sup>, D. Vu<sup></sup>, A. Karaaslanli, S. Aviyente (2024)*  
-  Developed an unsupervised graph filter method to identify hub nodes with strong structure-function coupling.  
-  [arXiv:2410.17410](https://arxiv.org/abs/2410.17410)
-
-- **Graph Filtering for Hub Node Identification in Brain Networks**  
-  *D. Vu, M. Ortiz-Bouza, S. Aviyente (2024)*  
-  Applied graph filtering to EEG signals and identified brain hubs consistent with centrality and SVM results.  
-  [ISBI 2024](https://doi.org/10.1109/ISBI56570.2024.10635215)
-
----
+**Neuroscience & Signal Processing**  
+One of my deeper intellectual hobbies is exploring the intersection of neuroscience and signal processing. I’m truly intrigued by how the brain, a complex biological system, can be studied through mathematical frameworks like graph theory and signal filtering. I find beauty in viewing the brain as a highly sophisticated learning and communication system, full of nonlinearities and quirks.
 
 ### 📬 Contact
 
