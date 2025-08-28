@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.27.2"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -116,7 +116,7 @@ author:
   name             : "Tien Duc Vu Nguyen"
   avatar           : "/assets/images/cropped-newducimage.jpg"
   bio              : "Undergraduate Researcher in Graph Signal Processing on Brain Networks"
-  location         : "Pittsburgh, Pennsylvania"
+  location         : "East Lansing, Michigan"
   email            : "tienducvunguyen2004@gmail.com"
   links:
     - label: "Email"

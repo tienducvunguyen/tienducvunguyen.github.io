@@ -6,7 +6,7 @@ search: false
 @charset "utf-8";
 
 // ✅ Hardcode the skin here
-@import "minimal-mistakes/skins/dark";
+@import "minimal-mistakes/skins/contrast";
 @import "minimal-mistakes"; // ✅ This allows _config.yml to control the skin
 
 @media (min-width: 80em) {
@@ -33,4 +33,12 @@ search: false
     }
   }
 }
+}
+
+
+/* Remove fade/blur effect on avatar */
+.author__avatar img {
+  filter: none !important;
+  opacity: 1 !important;
+  transition: none !important;
 }
