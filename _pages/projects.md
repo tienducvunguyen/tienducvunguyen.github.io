@@ -10,12 +10,11 @@ permalink: /projects/
 - **VergeIO** — EOG-based smart glasses enabling depth-aware interaction  
   I created a video to showcase VergeIO shortly after our paper submission. The video provides a concise demonstration of our core innovations and potential applications. It is narrated by Professor Justin Chan and serves as an accessible introduction to the system’s design and capabilities.
 
-{% raw %}
-<video controls width="100%" poster="{{ '/assets/images/vergeio-thumbnail.png' | relative_url }}">
-  <source src="{{ '/assets/videos/Vergeio_finalcut.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag. <a href="{{ '/assets/videos/Vergeio_finalcut.mp4' | relative_url }}">Download the video</a>.
+<video controls width="100%" poster="{{ "/assets/images/vergeio-thumbnail.png" | relative_url }}">
+  <source src="{{ "/assets/videos/Vergeio_finalcut.mp4" | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
-{% endraw %}
+
 
 
 
