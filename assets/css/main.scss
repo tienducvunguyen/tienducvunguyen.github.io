@@ -36,9 +36,21 @@ search: false
 }
 
 
-/* Remove fade/blur effect on avatar */
-.author__avatar img {
-  filter: none !important;
-  opacity: 1 !important;
-  transition: none !important;
+
+/* === Custom Font Size Override === */
+
+/* Shrink or grow overall font size site-wide */
+body {
+  font-size: 0.90em !important;  /* Use 1.0em for default, lower to shrink, higher to enlarge */
+  line-height: 1.6 !important;
+}
+
+/* Optional: fine-tune content blocks */
+.page__content {
+  font-size: 0.90em !important;
+  line-height: 1.6 !important;
+}
+
+.sidebar {
+  font-size: 0.85em !important;
 }

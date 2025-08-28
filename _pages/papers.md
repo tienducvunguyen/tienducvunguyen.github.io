@@ -2,7 +2,7 @@
 title: "Publications"
 layout: single
 permalink: /papers/
-author_profile: false
+author_profile: True
 ---
 
 ### 🧠 Research Projects & Publications
