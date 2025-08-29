@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tien Duc Vu Nguyen"
+  name             : "Duc Vu"
   avatar           : "/assets/images/cropped-newducimage.jpg"
   bio              : "Undergraduate Researcher in Graph Signal Processing on Brain Networks"
   location         : "East Lansing, Michigan"
@@ -156,7 +156,6 @@ footer:
 
 # Reading Files
 include:
-  - _includes/head/custom.html
   - .htaccess
   - _pages
 exclude:
