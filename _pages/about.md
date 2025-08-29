@@ -15,8 +15,8 @@ My work focuses on:
 
 ### Hobbies
 
-**Football**  
-Although I only began playing football in college, it has since become one of my main passion. I find myself deeply engaged with the sport—not just in playing it, but also in following professional leagues like the Premier League.
+**Soccer**  
+Although I only began playing soccer in college, it has since become one of my main passion. I find myself deeply engaged with the sport—not just in playing it, but also in following professional leagues like the Premier League.
 
 **Drawing**  
 I enjoy drawing, particularly portraits. My early sketches were more stylized—drawing inspiration from animation and medieval themes but recently I’ve been focusing on improving my fundamentals, such as form and anatomy, in order to improve my portrait drawings. Interestingly enough, people have told me I am very intense while drawing.
