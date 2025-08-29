@@ -11,10 +11,13 @@ author_profile: True
 - **VergeIO** — EOG-based smart glasses enabling depth-aware interaction  
   I created a video to showcase VergeIO shortly after our paper submission. The video provides a concise demonstration of our core innovations and potential applications. It is narrated by Professor Justin Chan and serves as an accessible introduction to the system’s design and capabilities.
 
-<video controls width="100%" poster="{{ "/assets/images/vergeio-thumbnail.png" | relative_url }}">
-  <source src="{{ "/assets/videos/Vergeio_finalcut.mp4" | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+  <video autoplay loop muted playsinline width="100%" poster="{{ '/assets/images/vergeio-thumbnail.png' | relative_url }}">
+    <source src="{{ '/assets/videos/Vergeio_finalcut.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  🎬 [Watch Full Video]( {{ '/assets/videos/Vergeio_finalcut.mp4' | relative_url }} ){:target="_blank"}
+
 
 
 
@@ -29,4 +32,4 @@ author_profile: True
 - **Graph High-Pass Neural Networks**  
   I implemented a Graph Neural Network (GNN) that incorporates a high-pass filter kernel based on a Chebyshev rational filter framework. Unlike conventional methods that rely on costly eigendecomposition, this approach offers computational efficiency with complexity scaling quadratically rather than cubically. This makes it practical for applying graph signal processing techniques to large-scale data while preserving the benefits of spectral filtering.
 
-<img src="{{ '/assets/images/figureproject3.png' | relative_url }}" alt="GNN Anomaly Detection ROC" width="80%">
+<img src="{{ '/assets/images/gnn.png' | relative_url }}" alt="GNN Anomaly Detection ROC" width="100%">
