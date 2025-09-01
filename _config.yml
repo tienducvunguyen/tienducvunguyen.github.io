@@ -130,7 +130,9 @@ author:
     - label: "ORCID"
       icon: "ai ai-orcid"
       url: "https://orcid.org/0009-0003-5072-2992"
-
+    - label: "CV"
+      icon: "fas fa-fw fa-file-alt"
+      url: "/assets/files/duc_cv.pdf"
 # Site Footer
 footer:
   links:

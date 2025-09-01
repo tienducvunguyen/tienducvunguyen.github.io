@@ -1,0 +1,27 @@
+.masthead,
+.masthead__inner-wrap,
+.greedy-nav {
+  background-color: #000 !important; // black masthead only
+}
+
+.site-title,
+.masthead__menu-item > a,
+.greedy-nav a {
+  color: #fff !important; // white links
+}
+
+
+h2 {
+//   border-top: 5px solid #ae0505 !important;
+  border-bottom: 2px solid #ae0505 !important; // teal line
+}
+
+/* Force avatar image to always be fully visible */
+.author__avatar img {
+  opacity: 1 !important;       /* default state */
+  transition: none !important; /* remove fade animation */
+}
+
+.author__avatar img:hover {
+  opacity: 1 !important;       /* keep it full on hover too */
+}
