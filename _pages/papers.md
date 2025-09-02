@@ -9,6 +9,32 @@ author_profile: true
 
 ---
 
+### **Learning Graph Filters for Structure–Function Coupling Based Hub Node Identification**
+
+<p><strong>Ortiz-Bouza, M.<sup>*</sup>, Vu, D.<sup>*</sup>, Karaaslanli, A., & Aviyente, S. (2025)</strong></p>
+<p><em>Published in IEEE Transactions on Signal and Information Processing over Networks (TSIPN)</em> · <a href="https://doi.org/10.1109/TSIPN.2025.3595070">DOI:10.1109/TSIPN.2025.3595070</a></p>
+
+- Processed fMRI and DWI data from 122 subjects in the Human Connectome Project (HCP), downloaded via AWS S3 and used FreeSurfer with MRtrix3 to construct both structural connectomes and fMRI time-series signals.  
+- Implemented and evaluated a learning-based graph filter framework alongside conventional machine learning models to generate hub node results.  
+- Proposed a novel hyperparameter selection strategy based on cross-method result consistency and hub node validation using global efficiency.  
+- Parcellated connectomes to the 360-region Glasser atlas and mapped results to Yeo functional networks; performed consistency validation via entropy-based metrics.  
+- Co-wrote the manuscript and contributed to the design, analysis, and presentation of results.
+
+
+---
+
+### **Hypergraph Overlapping Community Detection for Brain Networks**
+
+<p><strong>Vu, D., & Aviyente, S. (2025)</strong></p>
+<p><em>Accepted at IEEE MLSP 2025</em> · <a href="https://arxiv.org/abs/2507.08999">arXiv:2507.08999</a></p>
+
+- Proposed a hypergraph-based overlapping community detection method for fMRI-derived brain networks.  
+- Suggested validating detected communities by aligning with known ICA-derived networks and assessing consistency through randomized network scoring.  
+- Led the project from idea to experimentation and result generation.  
+- Coordinated research direction and wrote the majority of the manuscript.
+
+---
+
 ### **VergeIO: Depth-Aware Eye Interaction on Glasses**
 
 <p><strong>Zhang, X.<sup>*</sup>, Vu, D.<sup>*</sup>, Shen, C., Wang, Y., Shi, Y., Chan, J. (2025)</strong></p>
@@ -30,30 +56,6 @@ author_profile: true
 - Conducted a user study across 60 sessions with 24 participants to collect physiological data and survey responses.  
 - Co-wrote the manuscript and contributed to the device’s physical theory.
 
----
-
-### **Hypergraph Overlapping Community Detection for Brain Networks**
-
-<p><strong>Vu, D., & Aviyente, S. (2025)</strong></p>
-<p><em>Accepted at IEEE MLSP 2025</em> · <a href="https://arxiv.org/abs/2507.08999">arXiv:2507.08999</a></p>
-
-- Proposed a hypergraph-based overlapping community detection method for fMRI-derived brain networks.  
-- Suggested validating detected communities by aligning with known ICA-derived networks and assessing consistency through randomized network scoring.  
-- Led the project from idea to experimentation and result generation.  
-- Coordinated research direction and wrote the majority of the manuscript.
-
----
-
-### **Learning Graph Filters for Structure–Function Coupling Based Hub Node Identification**
-
-<p><strong>Ortiz-Bouza, M.<sup>*</sup>, Vu, D.<sup>*</sup>, Karaaslanli, A., & Aviyente, S. (2025)</strong></p>
-<p><em>Published in IEEE Transactions on Signal and Information Processing over Networks (TSIPN)</em> · <a href="https://doi.org/10.1109/TSIPN.2025.3595070">DOI:10.1109/TSIPN.2025.3595070</a></p>
-
-- Processed fMRI and DWI data from 122 subjects in the Human Connectome Project (HCP), downloaded via AWS S3 and used FreeSurfer with MRtrix3 to construct both structural connectomes and fMRI time-series signals.  
-- Implemented and evaluated a learning-based graph filter framework alongside conventional machine learning models to generate hub node results.  
-- Proposed a novel hyperparameter selection strategy based on cross-method result consistency and hub node validation using global efficiency.  
-- Parcellated connectomes to the 360-region Glasser atlas and mapped results to Yeo functional networks; performed consistency validation via entropy-based metrics.  
-- Co-wrote the manuscript and contributed to the design, analysis, and presentation of results.
 
 ---
 
