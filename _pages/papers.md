@@ -49,8 +49,8 @@ author_profile: true
 
 ### **LubDubDecoder: Bringing Micro-Mechanical Cardiac Monitoring to All Hearables**
 
-<p><strong>Zhang, S.<sup>*</sup>, Zhang, X.<sup>*</sup>, Vu, D.<sup>*</sup>, Zhu, J., Shen, C., Wang, Y., Shi, Y., Chan, J., Goel, M. (2025)</strong></p>
-<p><em>Submitted to ACM CHI 2026</em> · <a href="https://arxiv.org/abs/2507.02187">arXiv:2507.02187</a></p>
+<p><strong>Zhang, S.<sup>*</sup>, Zhang, X.<sup>*</sup>, Vu, D. N. T.<sup>*</sup>, Qiang, T., Palacios, C., Zhu, J., Wang, Y., Goel, M., Chan, J. (2025)</strong></p>
+<p><em>Submitting to ACM CHI 2026</em> · <a href="https://arxiv.org/abs/2507.02187">arXiv:2507.02187</a></p>
 
 - Designed and implemented an in-ear high-SNR heartbeat detection system using microphones and speaker-turned-microphone configurations, amplified via the Babyface Pro FS interface; developed real-time MATLAB feedback tools for troubleshooting and signal monitoring.  
 - Conducted a user study across 60 sessions with 24 participants to collect physiological data and survey responses.  
