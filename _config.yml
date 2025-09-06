@@ -313,6 +313,8 @@ defaults:
       path: ""
       type: posts
     values:
+      custom_js:
+      - assets/js/custom.js
       layout: wide
       author_profile: true
       read_time: true
