@@ -16,9 +16,9 @@ author_profile: True
 
 
 - **Graph High-Pass Neural Networks**  
-  I implemented a Graph Neural Network (GNN) that incorporates a high-pass filter kernel based on a Chebyshev rational filter framework. Unlike conventional methods that rely on costly eigendecomposition, this approach offers computational efficiency with complexity scaling quadratically rather than cubically. This makes it practical for applying graph signal processing techniques to large-scale data while preserving the benefits of spectral filtering.
+  I implemented a Graph Neural Network (GNN) that incorporates a high-pass filter kernel based on a Chebyshev rational filter framework. Unlike conventional methods that rely on costly eigendecomposition, this approach offers computational efficiency with complexity scaling quadratically rather than cubically. This makes it practical for applying graph signal processing techniques to large-scale data while preserving the benefits of spectral filtering. The model performance is below with 10% of BitCoin Dataset.
 
-<img src="{{ '/assets/images/gnn.png' | relative_url }}" alt="GNN Anomaly Detection ROC" width="100%">
+<img src="{{ '/assets/images/gnnfig1.png' | relative_url }}" alt="GNN Anomaly Detection ROC" width="100%">
 
 
 - **VergeIO** — EOG-based smart glasses enabling depth-aware interaction  
