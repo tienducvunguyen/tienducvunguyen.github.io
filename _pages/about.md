@@ -64,8 +64,8 @@ One of my deeper intellectual hobbies is exploring the intersection of neuroscie
 
 ### 📬 Contact
 
-- Email: [tienducvunguyen@example.com](mailto:tienducvunguyen@example.com)  
-- LinkedIn: [https://www.linkedin.com/in/duc-vu-94147828b/](https://www.linkedin.com/in/duc-vu-94147828b/)  
+- Email: [tienducvunguyen@gmail.com](mailto:tienducvunguyen@gmail.com)  
+- LinkedIn: [https://www.linkedin.com/in/ducvu04/](https://www.linkedin.com/in/ducvu04/)  
 
 
 
