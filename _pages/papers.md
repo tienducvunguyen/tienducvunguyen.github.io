@@ -45,7 +45,7 @@ author_profile: true
 - Led power consumption profiling using the Monsoon Power Monitor and conducted latency measurements with the Teensy 4.1 microcontroller.  
 - Designed and assembled hardware prototypes like auto-adjustable glasses and stereoscopic displays to propose real-world applications.
 
----
+<!-- ---
 
 ### **LubDubDecoder: Bringing Micro-Mechanical Cardiac Monitoring to All Hearables**
 
@@ -54,7 +54,7 @@ author_profile: true
 
 - Designed and implemented an in-ear high-SNR heartbeat detection system using microphones and speaker-turned-microphone configurations, amplified via the Babyface Pro FS interface; developed real-time MATLAB feedback tools for troubleshooting and signal monitoring.  
 - Conducted a user study across 60 sessions with 24 participants to collect physiological data and survey responses.  
-- Co-wrote the manuscript and contributed to the device’s physical theory.
+- Co-wrote the manuscript and contributed to the device’s physical theory. -->
 
 
 ---
