@@ -5,7 +5,7 @@ permalink: /papers/
 author_profile: true
 ---
 
-### 🧠 Research Projects & Publications
+### Research Projects & Publications
 
 ---
 
@@ -26,7 +26,7 @@ author_profile: true
 ### **Hypergraph Overlapping Community Detection for Brain Networks**
 
 <p><strong>Vu, D., & Aviyente, S. (2025)</strong></p>
-<p><em>Accepted at IEEE MLSP 2025</em> · <a href="https://arxiv.org/abs/2507.08999">arXiv:2507.08999</a></p>
+<p><em>Published at IEEE MLSP 2025</em> · <a href="https://doi.org/10.1109/MLSP62443.2025.11204303">DOI:10.1109/MLSP62443.2025.11204303</a></p>
 
 - Proposed a hypergraph-based overlapping community detection method for fMRI-derived brain networks.  
 - Suggested validating detected communities by aligning with known ICA-derived networks and assessing consistency through randomized network scoring.  
