@@ -13,7 +13,7 @@
 
 h2 {
 //   border-top: 5px solid #ae0505 !important;
-  border-bottom: 2px solid #ae0505 !important; // teal line
+  border-bottom: 2px solid #dab635 !important; // teal line
 }
 
 /* Force avatar image to always be fully visible */
@@ -90,5 +90,37 @@ img {
   background-color: #717171;
 }
 
+// body {
+
+//   background: linear-gradient(
+
+//     135deg,
+
+//     #0b1120 0%,
+
+//     #1d2331 50%,
+
+//     #262f3e 100%
+
+//   );
+
+//   background-attachment: fixed;
+
+//   background-size: cover;
+
+//   color: #e5e7eb;
+
+// }
 
 
+a {
+
+  color: #946c00 !important;
+
+}
+
+a:hover {
+
+  color: #d3b03e !important;
+
+}
